@@ -4,6 +4,8 @@ import { NavLink } from 'react-router-dom'
 import {UsersIcon, SettingsIcon} from '../assets/images/icon'
 
 function Navbar() {
+
+    
   return (
     <div className='w-[20%] bg-[#C4C4C4] h-[100vh] overflow-y-auto'>
       <div className='flex items-center space-x-2 p-8'>
